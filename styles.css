@@ -1,0 +1,16 @@
+html {
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: sandybrown;
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color: green;
+}
